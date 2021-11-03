@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/v1.0/static/css/main.30d91493.chunk.css",
+    "main.js": "/v1.0/static/js/main.42863a45.chunk.js",
+    "main.js.map": "/v1.0/static/js/main.42863a45.chunk.js.map",
+    "runtime-main.js": "/v1.0/static/js/runtime-main.893fd7d1.js",
+    "runtime-main.js.map": "/v1.0/static/js/runtime-main.893fd7d1.js.map",
+    "static/css/2.5dfbe09b.chunk.css": "/v1.0/static/css/2.5dfbe09b.chunk.css",
+    "static/js/2.b4a1c8d6.chunk.js": "/v1.0/static/js/2.b4a1c8d6.chunk.js",
+    "static/js/2.b4a1c8d6.chunk.js.map": "/v1.0/static/js/2.b4a1c8d6.chunk.js.map",
+    "static/js/3.705cab9b.chunk.js": "/v1.0/static/js/3.705cab9b.chunk.js",
+    "static/js/3.705cab9b.chunk.js.map": "/v1.0/static/js/3.705cab9b.chunk.js.map",
+    "index.html": "/v1.0/index.html",
+    "static/css/2.5dfbe09b.chunk.css.map": "/v1.0/static/css/2.5dfbe09b.chunk.css.map",
+    "static/css/main.30d91493.chunk.css.map": "/v1.0/static/css/main.30d91493.chunk.css.map",
+    "static/js/2.b4a1c8d6.chunk.js.LICENSE.txt": "/v1.0/static/js/2.b4a1c8d6.chunk.js.LICENSE.txt",
+    "static/media/about.aee0f771.png": "/v1.0/static/media/about.aee0f771.png",
+    "static/media/avatar.90c691f1.png": "/v1.0/static/media/avatar.90c691f1.png",
+    "static/media/blog.52102140.png": "/v1.0/static/media/blog.52102140.png",
+    "static/media/codeEditor.ba945879.png": "/v1.0/static/media/codeEditor.ba945879.png",
+    "static/media/style.css": "/v1.0/static/media/pre.d4812f51.svg",
+    "static/media/home.main.3e93d9da.png": "/v1.0/static/media/home.main.3e93d9da.png",
+    "static/media/landing1.abb7ab5c.png": "/v1.0/static/media/landing1.abb7ab5c.png",
+    "static/media/landing2.b1be410b.png": "/v1.0/static/media/landing2.b1be410b.png",
+    "static/media/landing3.39c93afd.png": "/v1.0/static/media/landing3.39c93afd.png",
+    "static/media/resume1.0.e86c12cf.pdf": "/v1.0/static/media/resume1.0.e86c12cf.pdf",
+    "static/media/sstreamr1.4fa55d5d.png": "/v1.0/static/media/sstreamr1.4fa55d5d.png",
+    "static/media/sstreamr2.83408ce1.png": "/v1.0/static/media/sstreamr2.83408ce1.png",
+    "static/media/youtube-api.69962cfc.png": "/v1.0/static/media/youtube-api.69962cfc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.893fd7d1.js",
+    "static/css/2.5dfbe09b.chunk.css",
+    "static/js/2.b4a1c8d6.chunk.js",
+    "static/css/main.30d91493.chunk.css",
+    "static/js/main.42863a45.chunk.js"
+  ]
+}
